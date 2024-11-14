@@ -203,6 +203,12 @@ main {
     line-height: 0;
 }
 
+/* Sign up page */
+#signup {
+    display: flex;
+    flex-direction: column;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
