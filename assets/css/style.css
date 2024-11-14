@@ -226,9 +226,10 @@ main {
 #signup-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, .6);
+    padding: 30px;
 }
 
-#signup h2 {
+#signup-form > h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
